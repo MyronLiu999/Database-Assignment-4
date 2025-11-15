@@ -11,7 +11,7 @@ capabilities.
 dimension tables (e.g., film, actor, category)\
 **Tech Stack:** TypeScript + TypeORM + MySQL/SQLite3 + Commander (CLI) +
 Jest (Testing)\
-**Highlights:** Automatic entity generation, command-line sync
+**Highlights:** entity generation, command-line sync
 execution, and comprehensive test coverage
 
 ## Prerequisites
